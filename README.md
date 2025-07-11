@@ -1,2 +1,2 @@
 # UAS-struktur-data
-penjualan paket internet
+proyek UAS penjualan paket internet
